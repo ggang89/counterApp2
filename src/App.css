@@ -1,0 +1,17 @@
+.headtitle{
+  color: blue;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 800;
+  border-bottom: 1px solid lightblue;
+  margin: 20px;
+  padding-bottom:20px ;
+}
+.count{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.countText{
+  font-size: 30px;
+}
