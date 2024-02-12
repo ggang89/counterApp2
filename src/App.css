@@ -7,11 +7,19 @@
   margin: 20px;
   padding-bottom:20px ;
 }
+.wrap{
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: space-around;
+  flex:1;
+  height: 300px;
+}
 .countBox{
   display: flex;
   justify-content: space-around;
   align-items: center;
-  border:1px solid black
+  border:1px solid black;
+  flex:1;
 }
 .countText{
   font-size: 30px;
